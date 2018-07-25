@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.nightwhisper.net/2018/07/about/</loc>
+    <lastmod>2018-07-25T09:35:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nightwhisper.net/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.nightwhisper.net/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.nightwhisper.net/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.nightwhisper.net/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.nightwhisper.net/tags/default/</loc>
+    <lastmod>2018-07-25T09:35:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nightwhisper.net/post/</loc>
+    <lastmod>2018-07-25T09:35:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nightwhisper.net/tags/</loc>
+    <lastmod>2018-07-25T09:35:47+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.nightwhisper.net/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.nightwhisper.net/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.nightwhisper.net/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.nightwhisper.net/tags/test/</loc>
+    <lastmod>2018-07-25T09:35:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nightwhisper.net/ua-47268287-3/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.nightwhisper.net/de/ua-47268287-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.nightwhisper.net/es/ua-47268287-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.nightwhisper.net/ua-47268287-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.nightwhisper.net/</loc>
+    <lastmod>2018-07-25T09:35:47+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.nightwhisper.net/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.nightwhisper.net/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.nightwhisper.net/"
+                />
+  </url>
+  
+</urlset>
